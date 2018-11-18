@@ -4,20 +4,22 @@
 
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
         xsi:noNamespaceSchemaLocation="./htconfig.xsd">
-    
-    <!--<DataBase>
+        
+    <!--QUESTION!!! why we are in the cloud and the host is  localhost???!-->
+        
+    <DataBase>
         <host>localhost</host>
-        <port>52842</port>
+        <port>54967</port>
         <db>tuna</db>
         <username>azure</username>
         <password>6#vWHD_$</password>
-    </DataBase>-->
+    </DataBase>
     
-    <DataBase>
+    <!--<DataBase>
         <host>localhost</host>
         <port>3306</port>
         <db>tuna</db>
         <username>root</username>
         <password></password>
-    </DataBase>
+    </DataBase>-->
 </Config>
