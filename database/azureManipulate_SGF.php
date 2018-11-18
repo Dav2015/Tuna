@@ -3,9 +3,9 @@
 $possibleTypes = array("image/jpeg", "image/png", "audio/mp3", "video/mp4");
 
 //storage azure server
-$server = "https://tunafiles.file.core.windows.net/tunafiles/";
-$credential = "?sv=2018-03-28&si=tunafiles&sr=s&sig=778ot79hDkKKCDMKcPDOpXDPUud%2FOzCHEO2Hj%2B0G41Y%3D";
-$isLocalhost = TRUE;
+$server = "https://tuna.file.core.windows.net/tuna/";
+$credential = "?sv=2018-03-28&si=tunaAcess&sr=s&sig=wwa%2BFIrX9qviMQaZpTdLbzKiIu3sgHNNxKGitzaENdA%3D";
+$isLocalhost = FALSE;
 
 if ($isLocalhost) {
     $linkRoot = "$_SERVER[HTTP_HOST]/tuna/SMI_site";
