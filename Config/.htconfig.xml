@@ -4,7 +4,9 @@
 
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
         xsi:noNamespaceSchemaLocation="./htconfig.xsd">
-    
+        
+    <!--QUESTION!!! why we are in the cloud and the host is  localhost???!-->
+        
     <DataBase>
         <host>localhost</host>
         <port>54967</port>
