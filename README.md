@@ -7,3 +7,6 @@ Online Website https://tunaf.azurewebsites.net
 (this website is hosted in azure just for CV purpose, uses student free web host from Azure, website runs slow because is in development environment)
 
 The images are blurry because privacy rights.
+
+Cons of this project: 
+-->organization can be improved
